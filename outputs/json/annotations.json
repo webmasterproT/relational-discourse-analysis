@@ -1,0 +1,611 @@
+[
+  {
+    "annotation_id": "ANN_0001",
+    "utterance_id": "UTT_0003",
+    "pattern_type": "power_imbalance",
+    "evidence_span": {
+      "start_char": 912,
+      "end_char": 924,
+      "text_segment": "I understood"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Johnson & Greenberg (1985) - Power dynamics in relationships",
+    "contextual_factors": [
+      "trauma_history",
+      "neurodivergence",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0002",
+    "utterance_id": "UTT_0003",
+    "pattern_type": "power_imbalance",
+    "evidence_span": {
+      "start_char": 1006,
+      "end_char": 1018,
+      "text_segment": "I understood"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Johnson & Greenberg (1985) - Power dynamics in relationships",
+    "contextual_factors": [
+      "trauma_history",
+      "neurodivergence",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0003",
+    "utterance_id": "UTT_0003",
+    "pattern_type": "power_imbalance",
+    "evidence_span": {
+      "start_char": 1069,
+      "end_char": 1081,
+      "text_segment": "I understood"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Johnson & Greenberg (1985) - Power dynamics in relationships",
+    "contextual_factors": [
+      "trauma_history",
+      "neurodivergence",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0004",
+    "utterance_id": "UTT_0003",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 1086,
+      "end_char": 1096,
+      "text_segment": "vulnerable"
+    },
+    "confidence": 0.655,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "neurodivergence",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "moderate",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0005",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "accountability_taking",
+    "evidence_span": {
+      "start_char": 282,
+      "end_char": 292,
+      "text_segment": "I am sorry"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Gottman & Levenson (1992) - Repair attempts",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0006",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "accountability_taking",
+    "evidence_span": {
+      "start_char": 658,
+      "end_char": 669,
+      "text_segment": "I was wrong"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Gottman & Levenson (1992) - Repair attempts",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0007",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 491,
+      "end_char": 501,
+      "text_segment": "vulnerable"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0008",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 757,
+      "end_char": 776,
+      "text_segment": "survival strategies"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0009",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 124,
+      "end_char": 134,
+      "text_segment": "obligation"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0010",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 640,
+      "end_char": 650,
+      "text_segment": "obligation"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0011",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 845,
+      "end_char": 863,
+      "text_segment": "power differential"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0012",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 718,
+      "end_char": 748,
+      "text_segment": "abuse that you had experienced"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0013",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "trauma_responsive",
+    "evidence_span": {
+      "start_char": 269,
+      "end_char": 280,
+      "text_segment": "blind spots"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "van der Kolk (2014) - Trauma-informed approaches",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0014",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 595,
+      "end_char": 602,
+      "text_segment": "consent"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0015",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 70,
+      "end_char": 85,
+      "text_segment": "what you wanted"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0016",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 53,
+      "end_char": 65,
+      "text_segment": "how you felt"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0017",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 124,
+      "end_char": 134,
+      "text_segment": "obligation"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0018",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 640,
+      "end_char": 650,
+      "text_segment": "obligation"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0019",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 607,
+      "end_char": 615,
+      "text_segment": "autonomy"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0020",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 31,
+      "end_char": 41,
+      "text_segment": "respectful"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0021",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 574,
+      "end_char": 584,
+      "text_segment": "respectful"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0022",
+    "utterance_id": "UTT_0004",
+    "pattern_type": "consent_negotiation",
+    "evidence_span": {
+      "start_char": 46,
+      "end_char": 65,
+      "text_segment": "asking how you felt"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Consent frameworks in relational ethics",
+    "contextual_factors": [
+      "trauma_history",
+      "power_differential",
+      "vulnerability_context"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0023",
+    "utterance_id": "UTT_0010",
+    "pattern_type": "accountability_taking",
+    "evidence_span": {
+      "start_char": 11,
+      "end_char": 24,
+      "text_segment": "This is on me"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Gottman & Levenson (1992) - Repair attempts",
+    "contextual_factors": [
+      "trauma_history"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0024",
+    "utterance_id": "UTT_0010",
+    "pattern_type": "accountability_taking",
+    "evidence_span": {
+      "start_char": 318,
+      "end_char": 328,
+      "text_segment": "I am sorry"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Gottman & Levenson (1992) - Repair attempts",
+    "contextual_factors": [
+      "trauma_history"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0025",
+    "utterance_id": "UTT_0010",
+    "pattern_type": "accountability_taking",
+    "evidence_span": {
+      "start_char": 435,
+      "end_char": 469,
+      "text_segment": "I made you feel. I do make mistake"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Gottman & Levenson (1992) - Repair attempts",
+    "contextual_factors": [
+      "trauma_history"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0026",
+    "utterance_id": "UTT_0010",
+    "pattern_type": "accountability_taking",
+    "evidence_span": {
+      "start_char": 88,
+      "end_char": 99,
+      "text_segment": "I failed to"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Gottman & Levenson (1992) - Repair attempts",
+    "contextual_factors": [
+      "trauma_history"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0027",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 173,
+      "end_char": 193,
+      "text_segment": "no indicator from me"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0028",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 199,
+      "end_char": 213,
+      "text_segment": "would not stop"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0029",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 320,
+      "end_char": 335,
+      "text_segment": "did not respond"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0030",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 448,
+      "end_char": 461,
+      "text_segment": "uncomfortable"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0031",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 156,
+      "end_char": 175,
+      "text_segment": "touching me with no"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0032",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 280,
+      "end_char": 316,
+      "text_segment": "rubbing my nipples harder and harder"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  },
+  {
+    "annotation_id": "ANN_0033",
+    "utterance_id": "UTT_0013",
+    "pattern_type": "boundary_violation",
+    "evidence_span": {
+      "start_char": 409,
+      "end_char": 461,
+      "text_segment": "did not feel or notice it until it got uncomfortable"
+    },
+    "confidence": 1.0,
+    "theoretical_basis": "Herman (1992) - Trauma and Recovery",
+    "contextual_factors": [
+      "power_differential"
+    ],
+    "severity": "high",
+    "validated_by_human": false
+  }
+]

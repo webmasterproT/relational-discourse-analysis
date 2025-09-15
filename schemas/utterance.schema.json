@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Utterance Schema",
+  "description": "Individual speech turn with linguistic and relational features",
+  "type": "object",
+  "required": ["utterance_id", "speaker", "text", "turn_number"],
+  "properties": {
+    "utterance_id": {
+      "type": "string",
+      "pattern": "^UTT_\\d+$",
+      "description": "Unique identifier for this utterance"
+    },
+    "speaker": {
+      "type": "string",
+      "enum": ["PERSON_A", "PERSON_B"],
+      "description": "Speaker identification"
+    },
+    "timestamp": {
+      "type": "string",
+      "pattern": "^\\d{1,2}:\\d{2}(am|pm)?$",
+      "description": "Time stamp if available"
+    },
+    "turn_number": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Sequential turn in conversation"
+    },
+    "text": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Raw utterance text"
+    },
+    "word_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "features": {
+      "type": "object",
+      "properties": {
+        "sentiment": {
+          "type": "object",
+          "properties": {
+            "polarity": {"type": "number", "minimum": -1, "maximum": 1},
+            "subjectivity": {"type": "number", "minimum": 0, "maximum": 1}
+          }
+        },
+        "speech_act": {
+          "type": "string",
+          "enum": ["request", "apology", "assertion", "question", "agreement", "disagreement", "explanation", "boundary_setting"]
+        },
+        "pronouns": {
+          "type": "object",
+          "properties": {
+            "first_person": {"type": "integer", "minimum": 0},
+            "second_person": {"type": "integer", "minimum": 0},
+            "third_person": {"type": "integer", "minimum": 0}
+          }
+        },
+        "linguistic_markers": {
+          "type": "object",
+          "properties": {
+            "hedging_words": {"type": "integer", "minimum": 0},
+            "intensifiers": {"type": "integer", "minimum": 0},
+            "modal_verbs": {"type": "integer", "minimum": 0},
+            "imperatives": {"type": "integer", "minimum": 0}
+          }
+        },
+        "relational_indicators": {
+          "type": "object",
+          "properties": {
+            "consent_language": {"type": "boolean"},
+            "boundary_language": {"type": "boolean"},
+            "accountability_language": {"type": "boolean"},
+            "support_language": {"type": "boolean"},
+            "power_assertion": {"type": "boolean"}
+          }
+        }
+      }
+    }
+  }
+}

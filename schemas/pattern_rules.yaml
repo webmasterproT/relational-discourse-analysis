@@ -1,0 +1,100 @@
+# Relational Theory Pattern Detection Rules
+# Based on discourse analysis, trauma-informed communication, and power dynamics research
+
+patterns:
+  
+  power_imbalance:
+    description: "Asymmetrical communication patterns indicating power differential"
+    indicators:
+      - keyword_patterns: ["I can solve", "I helped", "you needed", "you were vulnerable", "I understood"]
+      - pronoun_asymmetry: true  # High I/you ratio
+      - declarative_statements: true
+      - minimal_questioning: true
+    threshold: 0.7
+    theoretical_basis: "Johnson & Greenberg (1985) - Power dynamics in relationships"
+    
+  memory_dispute:
+    description: "Disagreement over shared experiences or statements"
+    indicators:
+      - keyword_patterns: ["you said", "I didn't say", "deny", "don't remember"]
+      - direct_contradiction: true
+      - certainty_language: ["twice", "definite", "exact phrase"]
+    threshold: 0.8
+    theoretical_basis: "Gaslighting patterns (Stark, 2019)"
+    
+  boundary_violation:
+    description: "Description of unwanted physical or emotional contact"
+    indicators:
+      - keyword_patterns: ["no indicator from me", "did not respond", "would not stop", "uncomfortable"]
+      - non_consent_language: true
+      - body_autonomy_references: true
+    threshold: 0.9
+    theoretical_basis: "Herman (1992) - Trauma and Recovery"
+    
+  accountability_taking:
+    description: "Genuine acceptance of responsibility for harm"
+    indicators:
+      - keyword_patterns: ["this is on me", "my failure", "I am sorry", "I was wrong"]
+      - no_deflection: true
+      - specific_acknowledgment: true
+    threshold: 0.6
+    theoretical_basis: "Gottman & Levenson (1992) - Repair attempts"
+    
+  accountability_avoiding:
+    description: "Deflecting responsibility or minimizing impact"
+    indicators:
+      - keyword_patterns: ["I didn't mean", "I don't remember", "wasn't intentional"]
+      - contradiction_patterns: true
+      - impact_minimization: true
+    threshold: 0.7
+    theoretical_basis: "Bancroft (2002) - Accountability avoidance patterns"
+    
+  trauma_responsive:
+    description: "Language acknowledging trauma impact and vulnerability"
+    indicators:
+      - keyword_patterns: ["trauma", "vulnerable", "survival strategies", "obligation"]
+      - vulnerability_acknowledgment: true
+      - impact_recognition: true
+    threshold: 0.6
+    theoretical_basis: "van der Kolk (2014) - Trauma-informed approaches"
+    
+  consent_negotiation:
+    description: "Discussion of consent, boundaries, or mutual agreement"
+    indicators:
+      - keyword_patterns: ["consent", "what you wanted", "how you felt", "obligation"]
+      - boundary_language: true
+      - autonomy_references: true
+    threshold: 0.5
+    theoretical_basis: "Consent frameworks in relational ethics"
+    
+  invalidation:
+    description: "Dismissing or questioning another's experience"
+    indicators:
+      - keyword_patterns: ["you would have thought", "that's not what happened"]
+      - experience_questioning: true
+      - reality_contradiction: true
+    threshold: 0.8
+    theoretical_basis: "Linehan (1993) - Validation theory"
+
+linguistic_markers:
+  hedging_words: ["maybe", "perhaps", "possibly", "I think", "kind of", "sort of"]
+  intensifiers: ["very", "really", "extremely", "definitely", "absolutely", "completely"]
+  modal_verbs: ["could", "should", "would", "might", "may", "must", "can", "will"]
+  imperatives: ["stop", "listen", "understand", "tell me", "explain"]
+  
+contextual_modifiers:
+  trauma_history:
+    weight_multiplier: 1.3
+    description: "Increases pattern significance when trauma is mentioned"
+  
+  neurodivergence:
+    weight_multiplier: 1.2  
+    description: "Accounts for ASD communication patterns"
+    
+  power_differential:
+    weight_multiplier: 1.4
+    description: "Helper-client dynamic affects interpretation"
+    
+  vulnerability_context:
+    weight_multiplier: 1.5
+    description: "Hospital/crisis context amplifies pattern significance"

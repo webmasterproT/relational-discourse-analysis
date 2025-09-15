@@ -1,0 +1,162 @@
+[
+  {
+    "utterance_id": "UTT_0001",
+    "speaker": "PERSON_A",
+    "turn_number": 1,
+    "text": "Nothing?",
+    "word_count": 1,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 0,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0006",
+    "speaker": "PERSON_A",
+    "turn_number": 6,
+    "text": "\"That was a stupid attempt to compensate for not having taken you on a date before anything physical happened between us.\" Was it? Do you still deny you said \"I tried to stop it\" twice in reference to our having sex? You said it when I invited you to consider whether you had any obligation to be transparent with my friend about your intent toward me. You said your actions were ethical. You didn't deceive my friend. You put down his shortcomings. You promoted yourself stating you wish we tried to stop it and you wish we had waited. \u2026",
+    "word_count": 100,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 0,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0007",
+    "speaker": "PERSON_A",
+    "turn_number": 7,
+    "text": "re you accusing me of manipulating you?",
+    "word_count": 7,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 0,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0009",
+    "speaker": "PERSON_A",
+    "turn_number": 9,
+    "text": "\"You would have thought oh well if it gets me what I need\" It is an accusation of manipulation and carelessness.",
+    "word_count": 21,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 0,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0013",
+    "speaker": "PERSON_A",
+    "turn_number": 13,
+    "text": "Why did you state \"you would have thought oh well it gets me what I need\" if it's on you? I paid you what you earned. As I said previously, you would start touching me with no indicator from me. You would not stop. You would sit and place your hands in my shirt and stay that way rubbing my nipples harder and harder. I did not respond. I sat at my laptop entirely focussed my laptop. Not for a short time. I did not feel or notice it until it got uncomfortable. I could not understand how you did not read the room. It confused me. I did not know what to say or do it was so odd. You helped me We all know reciprocity is a cultural norm.",
+    "word_count": 131,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 0,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  }
+]

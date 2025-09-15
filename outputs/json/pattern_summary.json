@@ -1,0 +1,42 @@
+{
+  "power_imbalance": {
+    "count": 3,
+    "avg_confidence": 1.0,
+    "speakers": {
+      "PERSON_A": 0,
+      "PERSON_B": 3
+    }
+  },
+  "trauma_responsive": {
+    "count": 8,
+    "avg_confidence": 0.957,
+    "speakers": {
+      "PERSON_A": 0,
+      "PERSON_B": 8
+    }
+  },
+  "accountability_taking": {
+    "count": 6,
+    "avg_confidence": 1.0,
+    "speakers": {
+      "PERSON_A": 0,
+      "PERSON_B": 6
+    }
+  },
+  "consent_negotiation": {
+    "count": 9,
+    "avg_confidence": 1.0,
+    "speakers": {
+      "PERSON_A": 0,
+      "PERSON_B": 9
+    }
+  },
+  "boundary_violation": {
+    "count": 7,
+    "avg_confidence": 1.0,
+    "speakers": {
+      "PERSON_A": 7,
+      "PERSON_B": 0
+    }
+  }
+}

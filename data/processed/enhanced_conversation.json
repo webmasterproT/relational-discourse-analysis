@@ -1,0 +1,450 @@
+[
+  {
+    "utterance_id": "UTT_0001",
+    "speaker": "PERSON_A",
+    "turn_number": 1,
+    "text": "Nothing?",
+    "word_count": 1,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 0,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0002",
+    "speaker": "PERSON_B",
+    "turn_number": 2,
+    "text": "That was a stupid attempt to compensate for not having taken you on a date before anything physical happened between us. I care about you so much, and I have such a high opinion of you, that I did not believe that you ever should have been in a mental hospital.",
+    "word_count": 51,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 3,
+        "second_person": 4,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 1,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0003",
+    "speaker": "PERSON_B",
+    "turn_number": 3,
+    "text": "ecause you were highly articulate, and an amazing person I felt like I was getting to know you,, at a time that you had been confined when you should never have been in the hospital. The conditions that you have - ASD, ADHD and complex PTSD - don't justify forcing someone to stay in a mental hospital. Complex PTSD is varied in presentation. I believed that your dad had manipulated you into checking in to the hospital, and that the reason that you were so frustrated at being there was because you shouldn't have been in there at all. I didn't understand the reason for men being blocked from seeing you. I felt like I had been respectful when talking to you, and that things had moved quickly, but I felt like that was due to the strength of our connection, not your vulnerability. You made me feel special. You were kind to me and helped me to accept that I had been in an abusive relationship. I felt like I understood you, but I was only starting to learn who you are. It was only parts of you that I understood. It was only when you left and Jack moved in that I understood how vulnerable you are.",
+    "word_count": 209,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 16,
+        "second_person": 19,
+        "third_person": 2
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 1,
+        "imperatives": 1
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0004",
+    "speaker": "PERSON_B",
+    "turn_number": 4,
+    "text": "ecause I considered that I was respectful and asking how you felt and what you wanted, I was unable to see your feelings of obligation that came from past experiences. What I couldn't see in myself, I was able to in someone else. You are right. I do have some very big blind spots. I am sorry. So at the same time that you have been doing so well, engaging with support services and moving forward, you have had to rely on a clueless dickhead to get you there. You did tell me that you were vulnerable while you were in hospital too. I made the assumption that because I am respectful and value consent and autonomy, you would not feel any obligation to me. I was wrong to assume. That failed to take into account the abuse that you had experienced and the survival strategies that developed as a result. I also failed to consider the perceived power differential between us. I had never heard the term before. I don't consider myself above you, or anyone.",
+    "word_count": 177,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 17,
+        "second_person": 13,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 1,
+        "modal_verbs": 1,
+        "imperatives": 1
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0005",
+    "speaker": "PERSON_B",
+    "turn_number": 5,
+    "text": "ut that doesn't change how it felt to you. Here was someone who was confident that they could solve most of your problems. And then they were attracted to you, and had spoken about wanting to pursue a relationship at some point. So when there was an indication of flirting, you would have thought, oh well, if it gets me what I need.",
+    "word_count": 63,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 2,
+        "second_person": 4,
+        "third_person": 4
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 2,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0006",
+    "speaker": "PERSON_A",
+    "turn_number": 6,
+    "text": "\"That was a stupid attempt to compensate for not having taken you on a date before anything physical happened between us.\" Was it? Do you still deny you said \"I tried to stop it\" twice in reference to our having sex? You said it when I invited you to consider whether you had any obligation to be transparent with my friend about your intent toward me. You said your actions were ethical. You didn't deceive my friend. You put down his shortcomings. You promoted yourself stating you wish we tried to stop it and you wish we had waited. \u2026",
+    "word_count": 100,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 5,
+        "second_person": 15,
+        "third_person": 5
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 2
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0007",
+    "speaker": "PERSON_A",
+    "turn_number": 7,
+    "text": "re you accusing me of manipulating you?",
+    "word_count": 7,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 1,
+        "second_person": 2,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0008",
+    "speaker": "PERSON_B",
+    "turn_number": 8,
+    "text": "No, I am not. This was my failure.",
+    "word_count": 8,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 2,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0009",
+    "speaker": "PERSON_A",
+    "turn_number": 9,
+    "text": "\"You would have thought oh well if it gets me what I need\" It is an accusation of manipulation and carelessness.",
+    "word_count": 21,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 2,
+        "second_person": 1,
+        "third_person": 2
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 1,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0010",
+    "speaker": "PERSON_B",
+    "turn_number": 10,
+    "text": "It is not. This is on me. When you have had to deal with abuse in other situations, and I failed to consider how my flirting was likely to be taken by you, and you still had the same need to move forward. I have continued getting to know you and learn more about you. I care about you. I value you and your happiness. I am sorry that I didn't understand. I will do everything that I can to do better in the future and to atone for how I made you feel. I do make mistakes. I am a long way from perfect.",
+    "word_count": 105,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 13,
+        "second_person": 9,
+        "third_person": 1
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 2,
+        "imperatives": 1
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0011",
+    "speaker": "PERSON_B",
+    "turn_number": 11,
+    "text": "ut I do my best to learn from them and not repeat them. You did not manipulate me. You were not careless You were kind, and gentle (emotionally) and caring. I am still here. I am ashamed.",
+    "word_count": 37,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 5,
+        "second_person": 3,
+        "third_person": 2
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 0,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0012",
+    "speaker": "PERSON_B",
+    "turn_number": 12,
+    "text": "ut I am still here. I will apologise to Garrett.",
+    "word_count": 10,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 2,
+        "second_person": 0,
+        "third_person": 0
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 1,
+        "imperatives": 0
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0013",
+    "speaker": "PERSON_A",
+    "turn_number": 13,
+    "text": "Why did you state \"you would have thought oh well it gets me what I need\" if it's on you? I paid you what you earned. As I said previously, you would start touching me with no indicator from me. You would not stop. You would sit and place your hands in my shirt and stay that way rubbing my nipples harder and harder. I did not respond. I sat at my laptop entirely focussed my laptop. Not for a short time. I did not feel or notice it until it got uncomfortable. I could not understand how you did not read the room. It confused me. I did not know what to say or do it was so odd. You helped me We all know reciprocity is a cultural norm.",
+    "word_count": 131,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 17,
+        "second_person": 11,
+        "third_person": 6
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 5,
+        "imperatives": 2
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  },
+  {
+    "utterance_id": "UTT_0014",
+    "speaker": "PERSON_B",
+    "turn_number": 14,
+    "text": "Because it indicated your feeling of obligation. I did not 'earn' the gift of yourself. I am sorry Tia. I am not normal. I will learn from this and be a better man. You are worth more than my support and assistance with these things. There will always be a positive outcome when you tell me about something like this. You give me the opportunity to change and grow. Thank you",
+    "word_count": 71,
+    "features": {
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0
+      },
+      "speech_act": "assertion",
+      "pronouns": {
+        "first_person": 7,
+        "second_person": 6,
+        "third_person": 1
+      },
+      "linguistic_markers": {
+        "hedging_words": 0,
+        "intensifiers": 0,
+        "modal_verbs": 2,
+        "imperatives": 1
+      },
+      "relational_indicators": {
+        "consent_language": false,
+        "boundary_language": false,
+        "accountability_language": false,
+        "support_language": false,
+        "power_assertion": false
+      }
+    }
+  }
+]

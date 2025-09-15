@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Annotation Schema",
+  "description": "Pattern annotations with evidence linking",
+  "type": "object",
+  "required": ["annotation_id", "utterance_id", "pattern_type", "confidence"],
+  "properties": {
+    "annotation_id": {
+      "type": "string",
+      "pattern": "^ANN_\\d+$",
+      "description": "Unique identifier for this annotation"
+    },
+    "utterance_id": {
+      "type": "string",
+      "pattern": "^UTT_\\d+$",
+      "description": "Reference to annotated utterance"
+    },
+    "pattern_type": {
+      "type": "string",
+      "enum": [
+        "power_imbalance",
+        "consent_negotiation",
+        "boundary_violation",
+        "accountability_taking",
+        "accountability_avoiding",
+        "trauma_responsive",
+        "gaslighting_pattern",
+        "emotional_manipulation",
+        "supportive_response",
+        "invalidation",
+        "memory_dispute",
+        "reality_distortion",
+        "responsibility_deflection"
+      ],
+      "description": "Type of relational pattern identified"
+    },
+    "evidence_span": {
+      "type": "object",
+      "properties": {
+        "start_char": {"type": "integer", "minimum": 0},
+        "end_char": {"type": "integer", "minimum": 0},
+        "text_segment": {"type": "string"}
+      },
+      "description": "Character-level evidence location"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Algorithm confidence in pattern identification"
+    },
+    "theoretical_basis": {
+      "type": "string",
+      "description": "Citations or theoretical justification for pattern"
+    },
+    "contextual_factors": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "trauma_history",
+          "neurodivergence",
+          "power_differential",
+          "vulnerability_context",
+          "repair_attempt",
+          "escalation_point"
+        ]
+      }
+    },
+    "severity": {
+      "type": "string",
+      "enum": ["low", "moderate", "high", "critical"],
+      "description": "Assessed impact severity"
+    },
+    "validated_by_human": {
+      "type": "boolean",
+      "default": false
+    },
+    "validation_notes": {
+      "type": "string",
+      "description": "Human reviewer comments"
+    }
+  }
+}
